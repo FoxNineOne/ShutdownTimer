@@ -1,5 +1,7 @@
 # Simple Shutdown Timer Script #
 
+This is for Windows only. Maybe curiosity will lead me to try other OSs.
+
 Save the script as a bat file, then run the bat file in Command Prompt, or double click the file to run.
 You will be presented with the following six options. 
 
