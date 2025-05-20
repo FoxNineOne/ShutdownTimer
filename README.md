@@ -15,9 +15,4 @@ You will be presented with the following six options.
 
 
 Upon entering options 1-4, the shutdown timer will go into effect. 
-Option 5 will ask you for a customer timer
-
-
-All of this is self explanatory, I hope this ReadMe is never needed.
-
-Listen to Zorro Sombre instrumentals.
+Option 5 will ask you for a custom timer
